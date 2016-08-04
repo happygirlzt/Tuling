@@ -4,7 +4,7 @@ import requests
 
 x = 1
 while x: 
-	KEY = '92ec002f44bf44bfb7fda1060faeb057'
+	KEY = '' # 这里输入你获取的api
 	url = 'http://www.tuling123.com/openapi/api'
 
 	req_info = raw_input()
